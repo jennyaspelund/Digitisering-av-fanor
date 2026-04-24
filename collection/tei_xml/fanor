@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Folkliga fanor i Uppland</title>
+            <author> </author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Jenny Aspelund</authority>
+            <authority>Cecilia Pulkkanen</authority>
+            <authority>Maria Store</authority>
+            <date>Juni 2026</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p>Fanorna är i de flesta fall tillverkade i slutet av 1800-talet
+                  eller början av 1900-talet och det har gått mer än 70 år sedan 
+                  skaparen av fanan dog eller, om skaparen är okänd, har det gått
+                  mer än 70 år sedan fanan offentliggjordes. bilder distribueras 
+                  under en CC-BY 4.0 license</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Samling av nio stycken folkrörelsefanor från 
+               1800- och första halvan av 1900-talet. Del av 
+               samling som finns hos Folkrörelsearkivet för Uppsala län.</bibl>
+            <listObject>
+               <object xml:id="Fana01a">
+                  <objectIdentifier>
+                     <country>Sverige</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet för Uppsala län</institution>
+                     <objectName>Fana Lantarbetareförbundet avd 319 Almunge, framsida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 327</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>målad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>149</height>
+                                 <width>191</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Soluppgång, såningsman.</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Sv. Lantarbetareförbundet avd 319 Bildad 6/9 1931 Almunge</p>
+                        </decoNote>
+                     </decoDesc>    
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate>okänt</origDate>
+                        <persName>Okänd</persName>
+                     </origin>
+                  </history>
+               </object>
+               
+               <object xml:id="Fana01b">
+                  <objectIdentifier>
+                     <country>Sverige</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet för Uppsala län</institution>
+                     <objectName>Fana Lantarbetareförbundet avd 319 Almunge, baksida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 327</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>målad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>149</height>
+                                 <width>191</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Handslag, facklor.</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Gör din plikt kräv din rätt</p>
+                        </decoNote>
+                     </decoDesc>    
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate>Okänt</origDate>
+                        <persName>Okänd</persName>
+                     </origin>
+                  </history>
+               </object>
+               
+               <object xml:id="Fana02a">
+                  <objectIdentifier>
+                     <country>Sverie</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet för Uppsala län</institution>
+                     <objectName>Fana Järn och Metallarbetareförbundet avd 53 Enköping, framsida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 291</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>målad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>159</height>
+                                 <width>224</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Emblem med verktyg, ekblad.</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Svenska Järn och Metallarbetareförb: Afdeln: 53 i Enköping
+                              Bildad den 8/10 1899</p>
+                        </decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate when="1908"></origDate>
+                        <persName type="maker">Johan Adolf Hellberg</persName>
+                     </origin>
+                  </history>
+               </object>
+               
+               <object xml:id="Fana02b">
+                  <objectIdentifier>
+                     <country>Sverige</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet för Uppsala län</institution>
+                     <objectName>Fana Järn och Metallarbetareförbundet avd 53 Enköping, baksida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 291</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>målad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>159</height>
+                                 <width>224</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Mariannegestalt</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Solidaritet vår styrka</p>
+                        </decoNote>
+                     </decoDesc>  
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate when="1908"></origDate>
+                        <persName type="maker">Johan Adolf Hellberg</persName>
+                     </origin>
+                  </history>
+               </object>
+               
+               <object xml:id="Fana03a">
+                  <objectIdentifier>
+                     <country>Sverige</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet för Uppsala län</institution>
+                     <objectName>Fana Skogs- och lantarbetareförbundet avd 110 Forsmark, framsida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 348</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>målad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>111</height>
+                                 <width>209</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Mariannegestalt, stjärna, jordglob</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Avd 110 av Uppl. skogs-&amp; lantarbetareförb. 
+                              Bildad 1/6 1924</p>
+                        </decoNote>
+                     </decoDesc>    
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate>1926-1927</origDate>
+                        <persName>Okänd</persName>
+                     </origin>
+                  </history>
+               </object>
+               
+               <object xml:id="Fana03b">
+                  <objectIdentifier>
+                     <country>Sverige</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet för Uppsala län</institution>
+                     <objectName>Fana Skogs- och lantarbetareförbundet avd 110 Forsmark, baksida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 348</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>målad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>111</height>
+                                 <width>209</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Upplandsvapen, plöjande bonde, hästar</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Enighet ger styrka Arbetets frukter till dem som arbeta!</p>
+                        </decoNote>
+                     </decoDesc>    
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate>1926-1927</origDate>
+                        <persName>Okänd</persName>
+                     </origin>
+                  </history>
+               </object>
+               
+               <object xml:id="Fana04a">
+                  <objectIdentifier>
+                     <country>Sverige</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet för Uppsala län</institution>
+                     <objectName>Fana Grov- och fabriksarbetareförbundet avd 557 Knivsta, framsida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 221</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>målad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>187</height>
+                                 <width>140</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Soluppgång, lagerranka, arbetare med spade, fackla.</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Sv. Grov &amp; Fabriksarbetareförb. avd 557 Knivsta Bildad 1/4 1934</p>
+                        </decoNote>
+                     </decoDesc>    
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate when="1938"></origDate>
+                        <orgName>Lindblads ateljé</orgName>
+                        <placeName>Örebro</placeName>
+                     </origin>
+                  </history>
+               </object>
+               
+               <object xml:id="Fana04b">
+                  <objectIdentifier>
+                     <country>Sverige</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet för Uppsala län</institution>
+                     <objectName>Fana nr 221 Grov- och fabriksarbetareförbundet avd 557 Knivsta, baksida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 221</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>målad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>187</height>
+                                 <width>140</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Soluppgång, lagerranka.</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Upplysning är makt</p>
+                        </decoNote>
+                     </decoDesc>    
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate when="1938"></origDate>
+                        <orgName>Lindblads ateljé</orgName>
+                        <placeName>Örebro</placeName>
+                     </origin>
+                  </history>
+               </object>
+               
+               <object xml:id="Fana05a">
+                  <objectIdentifier>
+                     <country>Sverige</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet för Uppsala län</institution>
+                     <objectName>Fana Lantarbetareförbundets avd 73 Tillinge/Svinnegarn, framsida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 294</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>målad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>86</height>
+                                 <width>164</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Lantarbetare, häst, slåttermaskin.</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Sv. Lantarb. Förb. Tillinge Svinnegarns avdelning Nr. 73
+                              Bildad 12/? 1919
+                           </p>
+                        </decoNote>
+                     </decoDesc>    
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate>Okänt</origDate>
+                        <orgName>Lindblads ateljé</orgName>
+                        <placeName>Örebro</placeName>
+                     </origin>
+                  </history>
+               </object>
+               
+               <object xml:id="Fana05b">
+                  <objectIdentifier>
+                     <country>Sverige</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet för Uppsala län</institution>
+                     <objectName>Fana Lantarbetareförbundets avd 73 Tillinge/Svinnegarn, baksida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 294</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>målad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>86</height>
+                                 <width>164</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Lantarbetare, hästar, slåttermaskin.</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Rättvisa frihet och bröd
+                           </p>
+                        </decoNote>
+                     </decoDesc>    
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate>Okänt</origDate>
+                        <orgName>Lindblads ateljé</orgName>
+                        <placeName>Örebro</placeName>
+                     </origin>
+                  </history>
+               </object>
+               
+               <object xml:id="Fana06a">
+                  <objectIdentifier>
+                     <country>Sverige</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet för Uppsala län</institution>
+                     <objectName>Fana Skogs- och flottningsarbetareförbundet avd 473, framsida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 243</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>målad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>118</height>
+                                 <width>194</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Skogsarbetare</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Sv Skogs- och flottningsarb.förb. avd 473 Söderfors 
+                              Organisation är makt
+                           </p>
+                        </decoNote>
+                     </decoDesc>    
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate>Okänt</origDate>
+                        <persName>Okänd</persName>
+                     </origin>
+                  </history>
+               </object>
+               
+               <object xml:id="Fana06b">
+                  <objectIdentifier>
+                     <country>Sverige</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet för Uppsala län</institution>
+                     <objectName>Fana Skogs- och flottningsarbetareförbundet avd 473, baksida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 243</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>målad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>118</height>
+                                 <width>194</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Handslag, jordglob</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Sv Skogs- och flottningsarbetareförb. 473 Bildad 1/5 1929 
+                              Enighet ger styrka
+                           </p>
+                        </decoNote>
+                     </decoDesc>    
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate>Okänt</origDate>
+                        <persName>Okänd</persName>
+                     </origin>
+                  </history>
+               </object>
+               
+               <object xml:id="Fana07a">
+                  <objectIdentifier>
+                     <country>Sverige</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet för Uppsala län</institution>
+                     <objectName>Fana Fabriksarbetareförbundet avd 174 Uppsala, framsida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 236</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>broderad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>137</height>
+                                 <width>197</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Kugghjul</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Svenska Fabriksarbetareförbundet avd. 174 Uppsala 1/6 1895
+                           </p>
+                        </decoNote>
+                     </decoDesc>    
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate>1955</origDate>
+                        <persName>Okänd</persName>
+                     </origin>
+                  </history>
+               </object>
+               
+               <object xml:id="Fana07b">
+                  <objectIdentifier>
+                     <country>Sverige</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet för Uppsala län</institution>
+                     <objectName>Fabriksarbetareförbundet avd 174 Uppsala, baksida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 236</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>broderad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>137</height>
+                                 <width>197</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Kugghjul</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Svenska Fabriksarbetareförbundet avd. 174 Uppsala 1/6 1895
+                           </p>
+                        </decoNote>
+                     </decoDesc>    
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate>1955</origDate>
+                        <persName>Okänd</persName>
+                     </origin>
+                  </history>
+               </object>
+               
+               <object xml:id="Fana08a">
+                  <objectIdentifier>
+                     <country>Sverige</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet för Uppsala län</institution>
+                     <objectName>Fana Järnvägsmannaförbundet avd 84 Uppsala, framsida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 73</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>målad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>132</height>
+                                 <width>207</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Mariannegestalt, bevingat hjul.</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Sv. Järnvägsmannaförb. 84 Bildad 27/8 1904</p>
+                        </decoNote>
+                     </decoDesc>    
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate>Okänt</origDate>
+                        <orgName>Lindblads ateljé</orgName>
+                        <placeName>Örebro</placeName>
+                     </origin>
+                  </history>
+               </object>
+               
+               <object xml:id="Fana08b">
+                  <objectIdentifier>
+                     <country>Sverige</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet i Uppsala</institution>
+                     <objectName>Fana Järnvägsmannaförbundet avd 84 Uppsala, baksida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 73</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>målad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>132</height>
+                                 <width>207</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Handslag, jordklot, vapensköld.</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Frihet Jämlikhet Broderskap</p>
+                        </decoNote>
+                     </decoDesc>    
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate>Okänt</origDate>
+                        <orgName>Lindblads ateljé</orgName>
+                        <placeName>Örebro</placeName>
+                     </origin>
+                  </history>
+               </object>    
+               
+               <object xml:id="Fana09a">
+               <objectIdentifier>
+                  <country>Sverige</country>
+                  <region>Uppland</region>
+                  <settlement>Uppsala</settlement>
+                  <institution>Folkrörelsearkivet för Uppsala län</institution>
+                  <objectName>Fana Järnvägsmannaförbundet avd 84 Uppsala, framsida</objectName>
+                  <idno>type="Arkivbeståndet fauppsala">nr 72</idno>
+               </objectIdentifier>
+               <physDesc> 
+                  <objectDesc form="fana">
+                     <supportDesc>
+                        <support>Fana tillverkad av<material>rött tyg</material>målad
+                        </support>
+                        <extent>
+                           <dimensions unit="cm" type="canvas">
+                              <height>148</height>
+                              <width>190</width>        
+                           </dimensions>   
+                        </extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <decoDesc>
+                     <decoNote type="illustration">
+                        <p>Mariennegestalt, soluppgång, bevingat hjul.</p>
+                     </decoNote>
+                     <decoNote type="inscription">
+                        <p>Sv. Järnvägsmannaförb. avd 84 Bildad 27/8 1904 Uppsala</p>
+                     </decoNote>
+                  </decoDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1943"></origDate>
+                     <orgName>Lindblads ateljé</orgName>
+                     <placeName>Örebro</placeName>
+                  </origin>
+               </history>
+               </object>
+               
+               <object xml:id="Fana09b">
+                  <objectIdentifier>
+                     <country>Sverige</country>
+                     <region>Uppland</region>
+                     <settlement>Uppsala</settlement>
+                     <institution>Folkrörelsearkivet för Uppsala län</institution>
+                     <objectName>Fana Järnvägsmannaförbundet avd 84 Uppsala, baksida</objectName>
+                     <idno>type="Arkivbeståndet fauppsala">nr 72</idno>
+                  </objectIdentifier>
+                  <physDesc> 
+                     <objectDesc form="fana">
+                        <supportDesc>
+                           <support>Fana tillverkad av<material>rött tyg</material>målad
+                           </support>
+                           <extent>
+                              <dimensions unit="cm" type="canvas">
+                                 <height>148</height>
+                                 <width>190</width>        
+                              </dimensions>   
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <decoDesc>
+                        <decoNote type="illustration">
+                           <p>Handslag, fackla, sol.</p>
+                        </decoNote>
+                        <decoNote type="inscription">
+                           <p>Frihet Demokrati Ansvar</p>
+                        </decoNote>
+                     </decoDesc>    
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate when="1943"></origDate>
+                        <orgName>Lindblads ateljé</orgName>
+                        <placeName>Örebro</placeName>
+                     </origin>
+                  </history>
+               </object> 
+            </listObject>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Projektet har genomförts inom delkursen Digitalisering
+            för bevarande och tillgänglighet vid Borås högskola vt 2026.
+            Arbetet har skett i samarbete med Folkrörelsearkivet för Uppsala län.</p>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>Folkrörelser</item>
+                  <item>Fanor</item>
+                  <item>Fackföreningar</item>
+                  <item>Kulturarv</item>
+               </list>
+            </keywords>
+         </textClass>
+       <langUsage>
+          <language ident="svenska"></language>
+       </langUsage>  
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface corresp="#Fana01a">
+         <graphic url="sökväg"></graphic>
+       </surface>
+      
+      <surface corresp="#Fana01b">
+         <graphic url="sökväg"></graphic>
+         </surface>
+      
+      <surface corresp="#Fana02a">
+         <graphic url="sökväg"></graphic>
+      </surface>
+      
+      <surface corresp="#Fana02b">
+         <graphic url="sökväg"></graphic>
+      </surface>
+      
+      <surface corresp="#Fana03a">
+         <graphic url="sökväg"></graphic>
+      </surface>
+      
+      <surface corresp="#Fana03b">
+         <graphic url="sökväg"></graphic>
+      </surface>
+      
+      <surface corresp="#Fana04a">
+         <graphic url="sökväg"></graphic>
+      </surface>
+      
+      <surface corresp="#Fana04b">
+         <graphic url="sökväg"></graphic>
+      </surface>
+      
+      <surface corresp="#Fana05a">
+         <graphic url="sökväg"></graphic>
+      </surface>
+      
+      <surface corresp="#Fana05b">
+         <graphic url="sökväg"></graphic>
+      </surface>
+      
+      <surface corresp="#Fana06a">
+         <graphic url="sökväg"></graphic>
+      </surface>
+      
+      <surface corresp="#Fana06b">
+         <graphic url="sökväg"></graphic>
+      </surface>
+      
+      <surface corresp="#Fana07a">
+         <graphic url="sökväg"></graphic>
+      </surface>
+      
+      <surface corresp="#Fana07b">
+         <graphic url="sökväg"></graphic>
+      </surface>
+      
+      <surface corresp="#Fana08a">
+         <graphic url="sökväg"></graphic>
+      </surface>
+      
+      <surface corresp="#Fana08b">
+         <graphic url="sökväg"></graphic>
+      </surface>
+      
+      <surface corresp="#Fana9a">
+         <graphic url="sökväg"></graphic>
+      </surface>
+      
+      <surface corresp="#Fana09b">
+         <graphic url="sökväg"></graphic>
+      </surface>
+      
+   </facsimile>
+<text>
+   <body>
+      <p>text</p>
+   </body>
+</text>
+   
+</TEI>
