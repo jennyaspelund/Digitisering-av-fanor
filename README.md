@@ -2,7 +2,7 @@
 
 # Om projektet
 Folkrörelsearkivet för Uppsala län har en samling av nästan 400 fanor från 1800- och 1900-talen i sina arkiv. Dessa fanor var en 
-gång viktiga symboler och dyrbara investeringar för bl a föreningar inom arbetarrörelsen investeringar och ofta mycket noggrant och konstnärligt utförda med  målade eller broderade motiv på sidentyg. Idag är dessa 
+gång viktiga symboler och dyrbara investeringar för bl a föreningar inom arbetarrörelsen och ofta mycket noggrant och konstnärligt utförda med  målade eller broderade motiv på sidentyg. Idag är dessa 
 gamla och ömtåliga artefakter i princip osynliga för allmänheten och vårt syfte med att digitalisera några av fanorna har varit 
 att göra dem mer tillgängliga och möjliga att studera och beundra. 
 
