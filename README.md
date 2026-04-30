@@ -7,4 +7,5 @@ att göra dem mer tillgängliga och möjliga att studera och beundra.
 Detta projekt har utförts inom kursen Digitalisering för bevarande och tillgänglighet, Masterprogrammet i 
 biblioteks- och informationsvetenskap, vid Högskolan i Borås under våren 2026 av Jenny Aspelund, 
 Cecilia Pulkkanen och Maria Store. Projektets tillgängliggörande utgår från [Wout Dillens mallar](https://github.com/SSLIS/DCHM-template/tree/main) 
-som skapats för denna kurs. Besök gärna vår [webbsida](https://jennyaspelund.github.io/Digitisering-av-fanor/reading.html).
+som skapats för denna kurs. Besök gärna vår [webbsida](https://jennyaspelund.github.io/Digitisering-av-fanor/index.html).
+
