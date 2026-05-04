@@ -777,75 +777,75 @@
    </teiHeader>
    <facsimile>
       <surface corresp="#Fana01a">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana01a-almunge-medium.jpg"></graphic>
        </surface>
       
       <surface corresp="#Fana01b">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana01b-almunge-medium.jpg"></graphic>
          </surface>
       
       <surface corresp="#Fana02a">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana02a-enkoping-medium.jpg"></graphic>
       </surface>
       
       <surface corresp="#Fana02b">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana02b-enkoping-medium.jpg"></graphic>
       </surface>
       
       <surface corresp="#Fana03a">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana03a-forsmark-medium.jpg"></graphic>
       </surface>
       
       <surface corresp="#Fana03b">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana03b-forsmark-medium.jpg"></graphic>
       </surface>
       
       <surface corresp="#Fana04a">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana04a-knivsta-medium.jpg"></graphic>
       </surface>
       
       <surface corresp="#Fana04b">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana04b-knivsta-medium.jpg"></graphic>
       </surface>
       
       <surface corresp="#Fana05a">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana05a-svinnegarn-medium.jpg"></graphic>
       </surface>
       
       <surface corresp="#Fana05b">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana05b-svinnegarn-medium.jpg"></graphic>
       </surface>
       
       <surface corresp="#Fana06a">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana06a-soderfors-medium.jpg"></graphic>
       </surface>
       
       <surface corresp="#Fana06b">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana06b-soderfors-medium.jpg"></graphic>
       </surface>
       
       <surface corresp="#Fana07a">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana07a-uppsala-fabriks-medium.jpg"></graphic>
       </surface>
       
       <surface corresp="#Fana07b">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana07b-uppsala-fabriks-medium.jpg"></graphic>
       </surface>
       
       <surface corresp="#Fana08a">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana08a-uppsala-jarnvag-medium.jpg"></graphic>
       </surface>
       
       <surface corresp="#Fana08b">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana08b-uppsala-jarnvag-medium.jpg"></graphic>
       </surface>
       
       <surface corresp="#Fana9a">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana09a-uppsala-jarnvag-medium.jpg"></graphic>
       </surface>
       
       <surface corresp="#Fana09b">
-         <graphic url="sökväg"></graphic>
+         <graphic url="assets/img/documents/fana09b-uppsala-jarnvag-medium.jpg"></graphic>
       </surface>
       
    </facsimile>
